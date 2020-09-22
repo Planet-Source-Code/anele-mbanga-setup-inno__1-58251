@@ -1,0 +1,5 @@
+[History]
+B0=SetupInno/SetupConverter/ReadVbSetupFile
+B1=SetupInno/SetupConverter/mnuConvert_Click
+B2=SetupInno/SetupConverter/LstViewToFile
+B3=SetupInno/SetupConverter

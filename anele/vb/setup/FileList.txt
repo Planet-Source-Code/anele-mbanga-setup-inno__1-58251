@@ -1,0 +1,612 @@
+SourceýDestinationýOperationýShared
+C:\Anele\Dev\Bible4th\Package\Support\Vb6stkit.dllý{sys}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Comcat.dllý{sys}ýRegserverý
+C:\Anele\Dev\Bible4th\Package\Support\Stdole2.tlbý{sys}ýRegtypelibý
+C:\Anele\Dev\Bible4th\Package\Support\Asycfilt.dllý{sys}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Olepro32.dllý{sys}ýRegserverý
+C:\Anele\Dev\Bible4th\Package\Support\Oleaut32.dllý{sys}ýRegserverý
+C:\Anele\Dev\Bible4th\Package\Support\Msvbvm60.dllý{sys}ýRegserverý
+C:\Anele\Dev\Bible4th\Package\Support\Christians.icoý{app}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Forward.lstý{app}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Back.lstý{app}ýý
+C:\Anele\Dev\Bible4th\Package\Support\The Bible.htmý{app}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Bible4th.resý{app}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Lvbuttons.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Outlookbar.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Comctl32.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Riched32.dllý{sys}ýý
+C:\Anele\Dev\Bible4th\Package\Support\Richtx32.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Mscomctl.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Comdlg32.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Codelibrarynew.dllý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Msdxm.ocxý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Dao360.dllý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Vtext.dllý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Agentctl.dllý{sys}ýRegserverýSharedfile
+C:\Anele\Dev\Bible4th\Package\Support\Speakingbible.exeý{app}ýý
+C:\Anele\Dev\Bible4th\christians.icoý{app}ýý
+C:\Anele\Dev\Bible4th\Agents\Cgram.exeý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Claude.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Courtney.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Earl.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Electra.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Gar.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Genie.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Hanz.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\James.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Merlin.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Miku.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Msagent.exeý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Msttsa22l.exeý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Peedy.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Plany.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Robby.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Santa.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Sharky.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Spchapi.exeý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Totem.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Tv_enua.exeý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Agents\Vrgirl.acsý{app}\Agentsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co001.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co002.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co003.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co004.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co005.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co006.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co007.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co008.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co009.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co010.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co011.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co012.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co013.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co014.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co015.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Corinthians\461co016.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 John\621jo001.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 John\621jo002.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 John\621jo003.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 John\621jo004.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 John\621jo005.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Peter\601pe001.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Peter\601pe002.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Peter\601pe003.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Peter\601pe004.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Peter\601pe005.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Thessalonians\521th001.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Thessalonians\521th002.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Thessalonians\521th003.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Thessalonians\521th004.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Thessalonians\521th005.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Timothy\541ti001.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Timothy\541ti002.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Timothy\541ti003.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Timothy\541ti004.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Timothy\541ti005.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\1 Timothy\541ti006.mp3ý{app}\Audio\King James New Testament In Mp3\New\1 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co001.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co002.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co003.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co004.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co005.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co006.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co007.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co008.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co009.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co010.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co011.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co012.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Corinthians\472co013.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Corinthiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 John\632jo001.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Peter\612pe001.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Peter\612pe002.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Peter\612pe003.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Peterýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Thessalonians\532th001.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Thessalonians\532th002.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Thessalonians\532th003.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Timothy\552ti001.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Timothy\552ti002.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Timothy\552ti003.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\2 Timothy\552ti004.mp3ý{app}\Audio\King James New Testament In Mp3\New\2 Timothyýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\3 John\643jo001.mp3ý{app}\Audio\King James New Testament In Mp3\New\3 Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\3 Thessalonians\532th001.mp3ý{app}\Audio\King James New Testament In Mp3\New\3 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\3 Thessalonians\532th002.mp3ý{app}\Audio\King James New Testament In Mp3\New\3 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\3 Thessalonians\532th003.mp3ý{app}\Audio\King James New Testament In Mp3\New\3 Thessaloniansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act017.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act018.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act019.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act020.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act021.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act022.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act023.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act024.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act025.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act026.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act027.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Acts\44act028.mp3ý{app}\Audio\King James New Testament In Mp3\New\Actsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Colossians\51col001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Colossiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Colossians\51col002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Colossiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Colossians\51col003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Colossiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Colossians\51col004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Colossiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Ephesians\49eph001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Ephesiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Ephesians\49eph002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Ephesiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Ephesians\49eph003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Ephesiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Ephesians\49eph004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Ephesiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Ephesians\49eph005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Ephesiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Ephesians\49eph006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Ephesiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Galatians\48gal001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Galatiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Galatians\48gal002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Galatiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Galatians\48gal003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Galatiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Galatians\48gal004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Galatiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Galatians\48gal005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Galatiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Galatians\48gal006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Galatiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Hebrews\58heb013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Hebrewsýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\James\59jam001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Jamesýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\James\59jam002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Jamesýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\James\59jam003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Jamesýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\James\59jam004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Jamesýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\James\59jam005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Jamesýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh017.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh018.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh019.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh020.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\John\43joh021.mp3ý{app}\Audio\King James New Testament In Mp3\New\Johnýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Jude\65jde001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Judeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk017.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk018.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk019.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk020.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk021.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk022.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk023.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Luke\42luk024.mp3ý{app}\Audio\King James New Testament In Mp3\New\Lukeýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Mark\41mar016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Markýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat017.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat018.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat019.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat020.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat021.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat022.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat023.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat024.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat025.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat026.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat027.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Matthew\40mat028.mp3ý{app}\Audio\King James New Testament In Mp3\New\Matthewýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Philemon\57phm001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Philemonýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Philippians\50php001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Philippiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Philippians\50php002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Philippiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Philippians\50php003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Philippiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Philippians\50php004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Philippiansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev017.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev018.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev019.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev020.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev021.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Revelation\66rev022.mp3ý{app}\Audio\King James New Testament In Mp3\New\Revelationýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom004.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom005.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom006.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom007.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom008.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom009.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom010.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom011.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom012.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom013.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom014.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom015.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Romans\45rom016.mp3ý{app}\Audio\King James New Testament In Mp3\New\Romansýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Titus\56tts001.mp3ý{app}\Audio\King James New Testament In Mp3\New\Titusýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Titus\56tts002.mp3ý{app}\Audio\King James New Testament In Mp3\New\Titusýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3\New\Titus\56tts003.mp3ý{app}\Audio\King James New Testament In Mp3\New\Titusýý
+C:\Anele\Dev\Bible4th\Audio\King James New Testament In Mp3.audý{app}\Audioýý
+C:\Anele\Dev\Bible4th\Bibles\1901 American Standard Version.bibý{app}\Biblesýý
+C:\Anele\Dev\Bible4th\Bibles\Apocrypha.bibý{app}\Biblesýý
+C:\Anele\Dev\Bible4th\Bibles\Contemporary English Version.bibý{app}\Biblesýý
+C:\Anele\Dev\Bible4th\Bibles\International Standard Version.bibý{app}\Biblesýý
+C:\Anele\Dev\Bible4th\Bibles\King James.bibý{app}\Biblesýý
+C:\Anele\Dev\Bible4th\Bibles\King James.colý{app}\Biblesýý
+C:\Anele\Dev\Bible4th\Book Notes\Jamieson Fausset And Brown Commentary.booý{app}\Book Notesýý
+C:\Anele\Dev\Bible4th\Book Notes\Matthew Henrys Commentary On The Whole Bible.booý{app}\Book Notesýý
+C:\Anele\Dev\Bible4th\Book Notes\Matthew Henrys Concise Commentary.booý{app}\Book Notesýý
+C:\Anele\Dev\Bible4th\Book Notes\The Peoples New Testament.booý{app}\Book Notesýý
+C:\Anele\Dev\Bible4th\Chapter Notes\Matthew Henrys Commentary On The Whole Bible.chaý{app}\Chapter Notesýý
+C:\Anele\Dev\Bible4th\Chapter Notes\Matthew Henrys Concise Commentary.chaý{app}\Chapter Notesýý
+C:\Anele\Dev\Bible4th\Chapter Notes\The Peoples New Testament.chaý{app}\Chapter Notesýý
+C:\Anele\Dev\Bible4th\Commentaries\Geneva Bible Translation Notes.comý{app}\Commentariesýý
+C:\Anele\Dev\Bible4th\Commentaries\Jamieson Fausset And Brown Commentary.comý{app}\Commentariesýý
+C:\Anele\Dev\Bible4th\Commentaries\John Wesleys Explanatory Notes.comý{app}\Commentariesýý
+C:\Anele\Dev\Bible4th\Commentaries\Matthew Henrys Concise Commentary.comý{app}\Commentariesýý
+C:\Anele\Dev\Bible4th\Commentaries\The Peoples New Testament.comý{app}\Commentariesýý
+C:\Anele\Dev\Bible4th\Devotions\Day-by-day By Grace (bob Hoekstra).devý{app}\Devotionsýý
+C:\Anele\Dev\Bible4th\Devotions\Morning And Evening (charles H Spurgeon).devý{app}\Devotionsýý
+C:\Anele\Dev\Bible4th\Devotions\Our Daily Walk (f B Meyer).devý{app}\Devotionsýý
+C:\Anele\Dev\Bible4th\Dictionaries\Hitchcocks Bible Names.dicý{app}\Dictionariesýý
+C:\Anele\Dev\Bible4th\Dictionaries\Naves Topical Bible.dicý{app}\Dictionariesýý
+C:\Anele\Dev\Bible4th\Dictionaries\R A Torreys New Topical Textbook.dicý{app}\Dictionariesýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Behold The Man.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Christ Falls Under The Cross.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Christ In The Synagogue.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Christ Mocked.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Gambling For Christ's Garments.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Gleaning On The Sabbath.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Jesus And The Mute Man.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Jesus At Age Twelve.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Jesus Calms The Storm.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Jesus Cleanses The Temple.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Jesus Is Scourged.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Jesus' Agony In The Garden.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\John The Baptist Preaching.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\John's Vision Of Fallen Babylon.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Lazarus And The Rich Man.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\Paul At Ephesus.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Adulterous Woman.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Annunciation.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Baptism Of Jesus.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Burial Of Christ.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Crown Of Thorns.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Crucifixion.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Darkness At The Crucifixion.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Daughter Of Jairus.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Day Of Pentecost.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Descent From The Cross.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Flight To Egypt.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Good Samaritan At The Inn.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Good Samaritan.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Lamb Of God Slain.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Last Supper.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Massacre Of The Innocents.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Miracle Of The Full Fish Net.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Nativity.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Pharisee And The Publican.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Prodigal Son Returns Home.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Prodigal Son.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Rescue Of Paul.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Resurrection Of Christ.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Temptation Of Christ.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Triumphal Entry.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Visit By The Magi.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Wedding At Cana.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts\The Woman At The Well.jpgý{app}\Graphics\Gustave Doré New Testament Woodcutsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\New Testament Palestine.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\Old Testament Palestine.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\Paul's First Missionary Journey.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\Paul's Journey To Rome.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\Paul's Second Missionary Journey.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\Paul's Third Missionary Journey.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps\The Biblical World.jpgý{app}\Graphics\International Standard Version Mapsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Crucifixion\Joseph Of Arimathea And Nicodemus.jpgý{app}\Graphics\King James\Highlights\The Crucifixionýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Crucifixion\Longinus The Centurion.jpgý{app}\Graphics\King James\Highlights\The Crucifixionýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Crucifixion\Mary And The Apostles.jpgý{app}\Graphics\King James\Highlights\The Crucifixionýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Crucifixion\Members Of The Sanhedrin.jpgý{app}\Graphics\King James\Highlights\The Crucifixionýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Crucifixion\Simon Of Cyrene.jpgý{app}\Graphics\King James\Highlights\The Crucifixionýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\Christ Or Diana.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\Descent Of The Holy Spirit.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\Jesus, The Good Sheperd.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\St Paul.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Crucifixion.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Prophets.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Highlights\The Sinful Woman.jpgý{app}\Graphics\King James\Highlightsýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Adoration Of The Sheperds.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Apprehension Of Christ.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Betrothal Of Mary.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ Among The Doctors.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ And The Chrildren.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ Bearing His Cross.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ Before Pilate.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ Healing The Sick.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ In The Garden Of Gethsemane.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ In The Temple.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ Leaving The Praetorium.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Christ Ridiculed.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Flight Into Egypt.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Healing Of The Woman With The Issue Of Blood.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Holy Family.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Jesus Chasing The Moneylenders From The Temple.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Massacre Of The Innocents.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Peter Repenting.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Resurrection Of Christ.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Sermon On The Mount.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\St John The Baptist.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Supper At Emmaus.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\Supper At The House Of Simon.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Annunciation.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Ascension.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Calling Of Matthew.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Crucifixion.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Daugther Of Jairus Raised.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Doubting Thomas.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Good Samaritan.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Last Supper.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Mourning Of Christ.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Presentation.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Rich Young Man.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Three Holy Kings.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Tribute Money.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Triumphal Entry By Christ.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Visit Between Mary And Elizabeth.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\New\The Wedding In Canna.jpgý{app}\Graphics\King James\Newýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Abigail Meeting Davind With Presents.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Abraham And Melchizedek.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\And God Said, Let There Be Light.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Boaz And Ruth.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Brazen Serpent.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Cain Slays Abel.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Daniel In The Den Of Lions-1.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Daniel In The Den Of Lions-2.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\David Slays Goliath.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Destruction Of Sodom.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Dream Of Jacob.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Elijah Goes To Heaven.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Encounter Between Rebekah And Isaac.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Esther Before Ahaseuerus.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Expulsion From The Garden Of Eden.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Expulsion Of Hagar.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\God Creates The Earth.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Issac Blessing Jacob.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Jacob And Rachel.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Jacob Visiting Canaan.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Jonah And The Whale.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Joseph Presents His Father And Brothers To The Pharoah.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Joseph Sold By His Brethren.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Moses Breaks The Tables Of Commandments.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Moses Receiving The Commandments.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Moses Saved From The Waters Of The Nile.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Moses Striking The Rock.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Passage Of The Red Sea.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Samson And The Lion.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\Samuel Anointing David.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Ark.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Daugther Of Jephthah.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Jews Collection Manna In The Desert.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Judgement Of Solomon.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Mourning Of David.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Sacrifice By Abraham.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Tower Of Babel.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\Old\The Truimp Of David.jpgý{app}\Graphics\King James\Oldýý
+C:\Anele\Dev\Bible4th\Graphics\King James\God So Loved The World.jpgý{app}\Graphics\King Jamesýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Bible Lands (ancient).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Bible Lands (modern).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Bible Lands (topographical).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Bible Times Israel (ancient).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Bible Times Israel (modern).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Era Of The Exodus (ancient).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Era Of The Exodus (modern).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Herod's Temple.jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Israel (topographical).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Mid-east (topographical).jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\New Testament Jerusalem.jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Paul's Journeys.jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Solomon's Temple.jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas\Wilderness Tabernacle.jpgý{app}\Graphics\Son Light Bible Atlasýý
+C:\Anele\Dev\Bible4th\Graphics\Facts About The Bible.jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\Gustave Doré New Testament Woodcuts.graý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\International Standard Version Maps.graý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\King James.graý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\Son Light Bible Atlas.graý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\The Time Of Patriarchs.jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\The Time Of The Judges.jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\The Time Of The Kings (captivity And Restoration).jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\The Time Of The Kings-1.jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\The Time Of The Kings-2.jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Graphics\The Title Page Of The King James Version, 1611.jpgý{app}\Graphicsýý
+C:\Anele\Dev\Bible4th\Study Notes\My Study Notes.stuý{app}\Study Notesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Filelist.xmlý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image001.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image002.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image003.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image004.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image005.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image006.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image007.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image008.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image009.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image010.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image011.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image012.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image013.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image014.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image015.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image016.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image017.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image018.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image019.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image020.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image021.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image022.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image023.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image024.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image025.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image026.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image027.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image028.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image029.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image030.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image031.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image032.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image033.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image034.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image035.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image036.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image037.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image038.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image039.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image040.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image041.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image042.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image043.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image044.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image045.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image046.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image047.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image048.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image049.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image050.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image051.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image052.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image053.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image054.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image055.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image056.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image057.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image058.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image059.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image060.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image061.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image062.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image063.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image064.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image065.pngý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Image066.jpgý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\The Bible_files\Oledata.msoý{app}\The Bible_filesýý
+C:\Anele\Dev\Bible4th\Topic Notes\2000+ Bible Illustrations.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Absolute Surrender.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\All Of Grace.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Analysis Of A Person.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Antiquities Of The Jews.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Concerning Christian Liberty.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Condensed Biblical Cyclopedia.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Doctrines.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Everyday Living.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Facts About The Bible.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Finneys Systematic Theology.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Foxs Book Of Martyrs.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Hymns Of Faith.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\In His Steps.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Institutes Of The Christian Religion.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Jesus From Seven Sources.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Men Of Prayer Needed.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Miracles.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Prayer And Praying Men.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Purpose In Prayer.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Sketches Of Church History.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Sketches Of Jewish Social Life.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\St Paul The Traveler.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Teachings.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Bible.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Deeper Christian Life.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Essentials Of Prayer.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Imitation Of Christ.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Life And Times Of Jesus The Messiah.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Necessity Of Prayer.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Possibilities Of Prayer.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Practice Of The Presence Of God.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Psalms Of David In Metre.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Pursuit Of God.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Reality Of Prayer.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Temple - Its Ministry And Service.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Training Of The Twelve.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\The Weapon Of Prayer.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Wars Of The Jews.topý{app}\Topic Notesýý
+C:\Anele\Dev\Bible4th\Topic Notes\Westminster Confession.topý{app}\Topic Notesýý
